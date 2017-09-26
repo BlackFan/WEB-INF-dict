@@ -30,7 +30,6 @@ WEB-INF/applicationContext.xml
 WEB-INF/beans.xml
 WEB-INF/cas-servlet.xml
 WEB-INF/cas.properties
-WEB-INF/classes/persistence.xml
 WEB-INF/classes/app-config.xml
 WEB-INF/classes/application.properties
 WEB-INF/classes/application.yml
@@ -54,6 +53,7 @@ WEB-INF/classes/messages.properties
 WEB-INF/classes/META-INF/app-config.xml
 WEB-INF/classes/META-INF/persistence.xml
 WEB-INF/classes/mobile.xml
+WEB-INF/classes/persistence.xml
 WEB-INF/classes/protocol_views.properties
 WEB-INF/classes/resources/config.properties
 WEB-INF/classes/services.properties
@@ -98,7 +98,10 @@ WEB-INF/dispatcher-servlet.xml
 WEB-INF/ejb-jar.xml
 WEB-INF/faces-config.xml
 WEB-INF/geronimo-web.xml
+WEB-INF/glassfish-resources.xml
 WEB-INF/glassfish-web.xml
+WEB-INF/hibernate.cfg.xml
+WEB-INF/ias-web.xml
 WEB-INF/ibm-web-bnd.xmi
 WEB-INF/ibm-web-ext.xmi
 WEB-INF/jax-ws-catalog.xml
@@ -156,6 +159,8 @@ WEB-INF/tiles-defs.xml
 WEB-INF/tjc-web.xml
 WEB-INF/trinidad-config.xml
 WEB-INF/urlrewrite.xml
+WEB-INF/validation.xml
+WEB-INF/validator-rules.xml
 WEB-INF/web-borland.xml
 WEB-INF/web-jetty.xml
 WEB-INF/web.xml
