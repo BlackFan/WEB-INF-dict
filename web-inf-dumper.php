@@ -1,6 +1,6 @@
 <?php
 	$url = 'http://localhost:8080/WebApplication_ForwardTest/index.jsp?page=$file$';
-	$regexp = '(.*)';
+	$regexp = '/(.*)/mis';
 	$outdir = './out/';
 
 	$queue = file('web-inf.txt');
